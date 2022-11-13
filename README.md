@@ -1,2 +1,3 @@
 # 100-132-SharedMemory
-Repo for prototyping shared memeory between C++ and Julia
+
+This repository contains examples of creating and reading from a POSIX shared memory in C++ and Julia.
